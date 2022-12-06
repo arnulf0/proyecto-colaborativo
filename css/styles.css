@@ -10,11 +10,11 @@
 
 :root {
     /* Colors */
-    --orange: #F7B731;
-    --blue: rgb(65, 103, 241);
-    --pink: #E77ED9;
-    --green: #11AC84;
-    --white: #FFFFFF;
+    --orange: green;
+    --blue: yellow;
+    --pink: gray;
+    --green: black;
+    --white: blue;
     --white-2: #E8E8E8;
     --white-dark: #F8F8F8;
     --black: #000000;
